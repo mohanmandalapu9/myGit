@@ -1,0 +1,500 @@
+   22  ./temp
+   23  ls
+   24  startx
+   25  startx
+   26  ls
+   27  cd documents
+   28  ls
+   29  cd SE
+   30  ls
+   31  startx
+   32  startx
+   33  ls
+   34  cd documents
+   35  ls
+   36  cd se
+   37  ls
+   38  cd temp.c
+   39  nano temp.c
+   40  gcc -o temp temp.c
+   41  ./temp
+   42  ls
+   43  cd documents
+   44  cd se
+   45  ls
+   46  nano temp.c
+   47  gcc -o temp temp.c
+   48  ./temp>tempoutput
+   49  ls
+   50  gcc -o temp temp.c
+   51  ./temp
+   52  ./temp>tempoutput
+   53  gcc -o temp temp.c
+   54  ./temp>myoutput
+   55  clear
+   56  gcc -o temp temp.c
+   57  ./temp
+   58  ./temp
+   59  ./temp
+   60  ./temp
+   61  exit
+   62  ls
+   63  cd documents
+   64  ls
+   65  cd se
+   66  nano temp.c
+   67  gcc -o temp temp.c
+   68  ./temp
+   69  ./temp
+   70  nano temp.c
+   71  gcc -o temp temp.c
+   72  ./temp>tempoutput
+   73  ls
+   74  less tempoutput
+   75  ./temp>tempoutput
+   76  less tempoutput
+   77  ./temp>>tempoutput
+   78  less tempoutput
+   79  nano temp.c
+   80  ls
+   81  cd documents
+   82  ls
+   83  cd se
+   84  nano temp.c
+   85  exit
+   86  ssh open
+   87  ssh :open
+   88  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+   89  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+   90  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+   91  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+   92  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+   93  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+   94  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+   95  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+   96  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+   97  ssh ocuclass28 cowboy.hpc.okstate.edu
+   98  ssh cowboy.hpc.okstate.edu
+   99  ssh ocuclass28 cowboy.hpc.okstate.edu
+  100  ssh ocuclass28@cowboy.hpc.okstate.edu
+  101  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  102  exit
+  103  ssh ocuclass28@cowboy.hpc.okstate.edu
+  104  ssh ocuclass28 cowboy.hpc.okstate.edu
+  105  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  106  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  107  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  108  ssh ocuclass28@cowboy.hpc.okstate.edu
+  109  ssh ocuclass28@cowboy.hpc.okstate.edu
+  110  ssh ocuclass28@cowboy.hpc.okstate.edu
+  111  ssh ocuclass28@cowboy.hpc.okstate.edu
+  112  ssh ocuclass28@cowboy.hpc.okstate.edu
+  113  ssh ocuclass28@cowboy.hpc.okstate.edu
+  114  ssh ocuclass28@cowboy.hpc.okstate.edu
+  115  ssh ocuclass28@cowboy.hpc.okstate.edu
+  116  ssh ocuclass28@cowboy.hpc.okstate.edu
+  117  ssh ocuclass28@cowboy.hpc.okstate.edu
+  118  ssh ocuclass28@cowboy.hpc.okstate.edu
+  119  ssh ocuclass28@cowboy.hpc.okstate.edu
+  120  ssh ocuclass28@cowboy.hpc.okstate.edu
+  121  ssh ocuclass28@cowboy.hpc.okstate.edu
+  122  ssh ocuclass28@cowboy.hpc.okstate.edu
+  123  ssh ocuclass28@cowboy.hpc.okstate.edu
+  124  ssh ocuclass28@cowboy.hpc.okstate.edu
+  125  ssh ocuclass28@cowboy.hpc.okstate.edu
+  126  ssh ocuclass28@cowboy.hpc.okstate.edu
+  127  ssh ocuclass28@cowboy.hpc.okstate.edu
+  128  ssh ocuclass28@cowboy.hpc.okstate.edu
+  129  ssh ocuclass28@cowboy.hpc.okstate.edu
+  130  ssh ocuclass28@cowboy.hpc.okstate.edu
+  131  ssh ocuclass28@cowboy.hpc.okstate.edu
+  132  ssh ocuclass28@cowboy.hpc.okstate.edu
+  133  ssh ocuclass28@cowboy.hpc.okstate.edu
+  134  ssh ocuclass28@cowboy.hpc.okstate.edu
+  135  ssh ocuclass28@cowboy.hpc.okstate.edu
+  136  ssh ocuclass28@cowboy.hpc.okstate.edu
+  137  ssh ocuclass28@cowboy.hpc.okstate.edu
+  138  ssh ocuclass28@cowboy.hpc.okstate.edu
+  139  ssh ocuclass28@cowboy.hpc.okstate.edu
+  140  ssh ocuclass28@cowboy.hpc.okstate.edu
+  141  ssh ocuclass28@cowboy.hpc.okstate.edu
+  142  ssh ocuclass28@cowboy.hpc.okstate.edu
+  143  ssh ocuclass28@cowboy.hpc.okstate.edu
+  144  ssh ocuclass28@cowboy.hpc.okstate.edu
+  145  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  146  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  147  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  148  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  149  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  150  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  151  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  152  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  153  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  154  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  155  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  156  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  157  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  158  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  159  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  160  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  161  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  162  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  163  ssh ocuclass28@cowboy.hpc.okstate.edu
+  164  ssh ocuclass28@cowboy.hpc.okstate.edu
+  165  ssh ocuclass28@cowboy.hpc.okstate.edu
+  166  ssh ocuclass28@cowboy.hpc.okstate.edu
+  167  ssh ocuclass28@cowboy.hpc.okstate.edu
+  168  ssh ocuclass28@cowboy.hpc.okstate.edu
+  169  ssh ocuclass28@cowboy.hpc.okstate.edu
+  170  ssh ocuclass28@cowboy.hpc.okstate.edu
+  171  ssh ocuclass28@cowboy.hpc.okstate.edu
+  172  ssh ocuclass28@cowboy.hpc.okstate.edu
+  173  ssh ocuclass28@cowboy.hpc.okstate.edu
+  174  ssh ocuclass28@cowboy.hpc.okstate.edu
+  175  ssh ocuclass28@cowboy.hpc.okstate.edu
+  176  ssh ocuclass28@cowboy.hpc.okstate.edu
+  177  ssh ocuclass28@cowboy.hpc.okstate.edu
+  178  ssh ocuclass28@cowboy.hpc.okstate.edu
+  179  ssh ocuclass28@cowboy.hpc.okstate.edu
+  180  ssh ocuclass28@cowboy.hpc.okstate.edu
+  181  ssh ocuclass28@cowboy.hpc.okstate.edu
+  182  ssh ocuclass28@cowboy.hpc.okstate.edu
+  183  ssh ocuclass28@cowboy.hpc.okstate.edu
+  184  ssh ocuclass28@cowboy.hpc.okstate.edu
+  185  ssh ocuclass28@cowboy.hpc.okstate.edu
+  186  ssh ocuclass28@cowboy.hpc.okstate.edu
+  187  scp ocuclass28@cowboy.hpc.okstate.edu
+  188  -o
+  189  -F_config
+  190  -F ssh_config
+  191  ssh ocuclass28@cowboy.hpc.okstate.edu
+  192  ssh ocuclass28@cowboy.hpc.okstate.edu
+  193  ssh ocuclass28@cowboy.hpc.okstate.edu
+  194  ssh ocuclass40@cowboy.hpc.okstate.edu
+  195  ssh ocuclass40@cowboy.hpc.okstate.edu
+  196  ls
+  197  startx
+  198  ls
+  199  cd documents
+  200  ls
+  201  cd se
+  202  ls
+  203  nano temp.c
+  204  ssh ocuclass28@cowboy.okstate.edu
+  205  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  206  exit
+  207  exit
+  208  start terminal
+  209  start
+  210  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  211  exit
+  212  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  213  ssh ocuclass28@cowboy.hpc.okstate.edu
+  214  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  215  ls
+  216  ssh ocuclass28@cowboy.hpc.okstate.edu
+  217  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  218  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  219  exit
+  220  exit
+  221  ls
+  222  cd documents
+  223  ls
+  224  cd SE
+  225  ls
+  226  nano omp_hello.c
+  227  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  228  clear
+  229  ls
+  230  nano omp_hello.c
+  231  gcc -g -Wall -fopenmp -o omp_hello omp_hello.c
+  232  nano omp_hello.c
+  233  gcc -g -Wall -fopenmp -o omp_hello omp_hello.c
+  234  nano omp_hello.c
+  235  gcc -g -Wall -fopenmp -o omp_hello omp_hello.c
+  236  nano omp_hello.c
+  237  gcc -g -Wall -fopenmp -o omp_hello omp_hello.c
+  238  nano omp_hello.c
+  239  ssh ocuclass28@cowboy.hpc.okstate.edu
+  240  clear
+  241  ssh ocuclass28@cowboy.hpc.okstate.edu
+  242  ssh -l ocuclass28 cowboy.hpc.okstate.edu
+  243  ssh ocuclass28@cowboy.hpc.okstate.edu
+  244  ssh ocuclass28@cowboy.hpc.okstate.edu
+  245  ssh ocuclass28@cowboy.hpc.okstate.edu
+  246  clear
+  247  ls
+  248  ssh ocuclass28@cowboy.hpc.okstate.edu
+  249  exxit
+  250  exit
+  251  ssh ocuclass28@cowboy.hpc.okstate.edu
+  252  ssh ocuclass28@cowboy.hpc.okstate.edu
+  253  exit
+  254  ssh ocuclass28@cowboy.hpc.okstate.edu
+  255  ls
+  256  cd Desktop
+  257  ls
+  258  nano client.c
+  259  gcc -o client client.c
+  260  gcc -o server server.c
+  261  ./server
+  262  100
+  263  ./server
+  264  nano server.c
+  265  ls
+  266  cd Desktop
+  267  ls
+  268  nano client.c
+  269  cd desktop
+  270  ls
+  271  cd cnbsd
+  272  gcc -o client client.c
+  273  ./client 100 1024 127.0.0.1 pw
+  274  ./client 100 1024 mohan pw
+  275  ./client 100 1024 mohans pw
+  276  ./client 100 1024 Mohan Krishna Mandalapu pw
+  277  ./client 100 1024 127.0.0.0 pw
+  278  cd desktop 
+  279  cd cnbsd
+  280  gcc -o client client.c
+  281  ./client 100 1024 mohankrishnamandalapu pw
+  282  ./client 100 1024 127.0.0.0 pw
+  283  ./client 100 1024 127.0.0.1 pw
+  284  ./client 100 1024 127.0.0.1 pw
+  285  ./client 100 1024 127.0.0.1 pw
+  286  ./client 100 127.0.0.1 pw
+  287  ./client 100 101 127.0.0.1 pw
+  288  ./client 100 1023 127.0.0.1 pw
+  289  ./client 100 1024 mohankrishnamandalapu pw
+  290  ./client 100 1024 host2 pw2
+  291  ./client 100 1023 127.0.0.0 pw
+  292  ./client 100 1023 127.0.0.1 pw
+  293  nano client.c
+  294  nano client.c
+  295  ipconfig | grep "inet" | grep -v 127.0.0.1
+  296  ipconfig
+  297  ipconfig |grep inet
+  298  ipconfig |vgrep inet
+  299  ipconfig | grep inet
+  300  ipconfig grep inet
+  301  ipconfig getifaddr  inet
+  302  ipconfig getifaddr  enl
+  303  cd desktop
+  304  ls
+  305  cd cnbsd
+  306  ls
+  307  nano passwd.txt
+  308  gcc -o server server.c
+  309  nano client.c
+  310  gcc -o client client.c
+  311  ./client 100 101 mohankrishnamandalapu pw
+  312  ./server
+  313  ./server 100
+  314  ./server 1024
+  315  nano server.c
+  316  ls
+  317  ssh ocuclass28@cowboy.hpc.okstate.edu
+  318  exit
+  319  cd desktop
+  320  cd cnbsd
+  321  gcc -o server server.c
+  322  ./server.c
+  323  ./server
+  324  ./server 100
+  325  ./server 101
+  326  ./server 1024
+  327  gcc server.c -o server
+  328  nano server.c
+  329  nano server.c
+  330  gcc server.c -o server
+  331  server 100
+  332  ./server 100
+  333  ./server 8806
+  334  ./server 8806
+  335  exit
+  336  exit
+  337  cd desktop
+  338  cd cnbsd
+  339  gcc server.c -o server
+  340  ./server 9912
+  341  ./server 9912
+  342  exit
+  343  gcc server.c -o server
+  344  ./server 9912
+  345  gcc server.c -o server
+  346  ./server 9999
+  347  gcc server.c -o server
+  348  ./server 9989
+  349  gcc server.c -o server
+  350  ./server 9979
+  351  cd desktop
+  352  cd cnbsd
+  353  gcc -o client client.c
+  354  ./client 100 101 127.0.0.1 1234
+  355  ./client 1024 101 127.0.0.1 1234
+  356  ./client 1024 100 127.0.0.1 1234
+  357  ./client 100 1024 127.0.0.1 1234
+  358  gcc client.c -o client
+  359  nano client.c
+  360  gcc client.c -o client
+  361  ./client 1695 9912 127.0.0.1 pw
+  362  ./client 1695 9912 127.0.0.1 pw
+  363  ./client 1695 9912 Mohans-MacBook-Air.local pw
+  364  ./client 1695 9999 127.0.0.1 pw
+  365  ./client 1695 9989 127.0.0.1 pw
+  366  nano client.c
+  367  nano client.c
+  368  gcc client.c -o client
+  369  ./client 1695 9989 127.0.0.1 pw
+  370  nano server.c
+  371  ./client 1695 9979 127.0.0.1 pw
+  372  ./client 1656 9979 127.0.0.1 pw
+  373  cd desktop
+  374  cd cnbsd
+  375  gcc client.c -o client
+  376  ./client 1777 7676 127.0.0.1 password
+  377  ./client 1777 7676 127.0.0.1  password
+  378  ./client 1776 7677 127.0.0.1 password
+  379  gcc client.c -o client
+  380  ./client 1776 7677 127.0.0.1 password
+  381  ./client 1776 7679 127.0.0.1 password
+  382  ./client 1776 7679 127.0.0.1 password
+  383  ./client 1776 7679 127.0.0.1 pass
+  384  ./client 1776 7679 127.0.0.1 pass
+  385  cd desktop
+  386  cd cnbsd
+  387  gcc server.c -o server
+  388  ./server 7676
+  389  gcc server.c -o server
+  390  ./server 7677
+  391  ./server 7677
+  392  ./server 7679
+  393  ./server 7679
+  394  ./server 7679
+  395  ls
+  396  vi passwd.txt 
+  397  vi passwd.txt 
+  398  gcc client.c -o client
+  399  cd desktop
+  400  cd cnbsd
+  401  gcc client.c -o client
+  402  ./client 1776 7679 127.0.0.1 pass
+  403  ./client 1776 8686 127.0.0.1 pw
+  404  ./client 1776 8686 127.0.0.1 pw
+  405  ./client 1776 8686 127.0.0.1 pw
+  406  gcc client.c -o client
+  407  ./client 1786 8688 127.0.0.1 pw
+  408  cd desktop
+  409  cd cnbsd
+  410  gcc server.c -o server
+  411  ./server 8686
+  412  ./server 8688
+  413  ssh ocuclass28@cowboy.hpc.okstate.edu
+  414  cd desktop
+  415  cd cnbsd
+  416  ssh ocuclass28@cowboy.hpc.okstate.edu
+  417  ssh ocuclass28@cowboy.hpc.okstate.edu
+  418  cd desktop
+  419  ls
+  420  cd cnbsd
+  421  ls
+  422  gcc client.c -o client
+  423  ./client 1678 3456 127.0.0.1 pw2
+  424  ./client 1678 3456 127.0.0.1 pw2
+  425  cd desktop
+  426  cd cnbsd
+  427  gcc client.c -o client
+  428  ./client 1567 3456 127.0.0.1 pw
+  429  ./client 1567 3456 127.0.0.1 pw
+  430  ls
+  431  cd desktop
+  432  cd cnbsd
+  433  ls
+  434  gcc server.c -o server
+  435  ./server 3456
+  436  cd desktop
+  437  cd cnbsd
+  438  ls
+  439  gcc -o server.c server
+  440  gcc -o server server.c
+  441  ls
+  442  gcc server.c -o server
+  443  ls
+  444  gcc server.c -o server
+  445  nano server
+  446  ssh ocuclass28@cowboy.hpc.okstate.edu
+  447  exit
+  448  ssh ocuclass28@cowboy.hpc.okstate.edu
+  449  ssh ocuclass28@cowboy.hpc.okstate.edu
+  450  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  451  brew intall wget
+  452  brew install wget
+  453  cd /user/local
+  454  cd /usr/local
+  455  find cellar
+  456  ls -l bin
+  457  brew install node
+  458  curl https://npmjs.org/install.sh | sudo sh
+  459  mkdir etherpad
+  460  cd etherpad
+  461  git clone https://github.com/ether/etherpad
+  462  nano etherpad-lite/settings.json
+  463  ls
+  464  cd etherpad-lite
+  465  ls
+  466  etherpad-lite/bin/run.sh
+  467  cd 
+  468  ls
+  469  cd etherpad-lite
+  470  cd /usr/local
+  471  cd etherpad-lite
+  472  cd etherpad
+  473  ls
+  474  cd etherpad-lite
+  475  cd etherpad-lite/bin/run.sh
+  476  ls
+  477  cd bin
+  478  ls
+  479  cd run.sh
+  480  run.sh
+  481  nano run.sh
+  482  portinstall git
+  483  ssh ocuclass28@cowboy.hpc.okstate.edu
+  484  ssh ocuclass28@cowboy.hpc.okstate.edu
+  485  ssh ocuclass28@cowboy.hpc.okstate.edu
+  486  ssh ocuclass28@cowboy.hpc.okstate.edu
+  487  ssh ocuclass28@cowboy.hpc.okstate.edu
+  488  exit
+  489  git intit
+  490  git init
+  491  nano test.c
+  492  git addrepository
+  493  git add
+  494  git add.repository
+  495  git help
+  496  git request-pull https://github.com/TechBoyzz
+  497  ls
+  498  git -p
+  499  which git
+  500  ssh ocuclass28@cowboy.hpc.okstate.edu
+  501  git --version
+  502  git config --global user.name "mohanmandalapu9"
+  503  git config --global user.email mmandalapu@my.okcu.edu
+  504  ls
+  505  ls
+  506  cd myFirst
+  507  ls
+  508  ls
+  509  cd myFirst
+  510  ls
+  511  history
+  512  git status
+  513  git commit
+  514  git remote add origin https://github.com/mohanmandalapu9/gitFirst.git
+  515  git pusg -u origin master
+  516  git push -u origin master
+  517  git status
+  518  git history
+  519  history
+  520  ls
+  521  history>myhistory
